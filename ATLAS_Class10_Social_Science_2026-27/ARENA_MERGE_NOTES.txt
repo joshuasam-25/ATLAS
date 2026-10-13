@@ -1,0 +1,15 @@
+ARENA → ATLAS MERGE NOTES
+
+Integrated from the user-supplied Arena ZIP:
+• topic-level chapter maps for all 22 entries
+• bigger glossary coverage
+• global search across more than titles
+• light/dark display option
+• resource desk and progress tracking
+
+Intentionally not used as the executable base:
+• Next.js/Drizzle/database scaffolding, because it needs a server and setup
+• UI claims of 500+ concepts/1000+ questions, since the supplied ZIP did not include matching volumes of complete chapter/question data
+• routes linked by the supplied source but absent from the ZIP as matching page files
+
+ATLAS is kept as a portable HTML app so a teacher can open it without installation. The chapter routes are learning outlines and are not claimed to be verbatim NCERT headings.
